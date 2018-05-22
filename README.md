@@ -1,2 +1,2 @@
-# Onepage website Resume in Django cms
+# Onepage Resume-Website in Django cms
 
